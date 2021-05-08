@@ -1,2 +1,2 @@
-# GitHubPractice
-For Learning Purpose
+# suresh-techs
+SureshTechs Websites
